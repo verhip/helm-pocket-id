@@ -1,0 +1,9 @@
+apiVersion: v2
+name: pocket-id
+description: Pocket-id Helm chart for Kubernetes
+home: https://github.com/verhip/helm-pocket-id
+type: application
+sources:
+  - https://github.com/pocket-id/pocket-id
+appVersion: v2.2.0
+version: v2.2.0
