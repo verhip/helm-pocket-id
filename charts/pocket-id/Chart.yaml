@@ -5,5 +5,5 @@ home: https://github.com/verhip/helm-pocket-id
 type: application
 sources:
   - https://github.com/pocket-id/pocket-id
-appVersion: v2.2.0
-version: v2.2.0
+appVersion: 2.19.1
+version: 2.19.1
